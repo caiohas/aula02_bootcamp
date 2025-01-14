@@ -204,3 +204,5 @@ try:
     print("Lista de inteiros:", numeros_int)
 except ValueError:
     print("Erro: certifique-se de que todos os elementos são números inteiros válidos.")
+
+# Fim
